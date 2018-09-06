@@ -22,6 +22,19 @@
             "subregionId": "NA"
         }
     ],
+    "plants": [
+        {
+            "countryId": "USA",
+            "geolocation": "9zy1u8rvmhr",
+            "id": "d701748f0851",
+            "name": "Milo",
+            "regionId": "AM",
+            "status": "Prospection",
+            "subdivisionId": "US-CA",
+            "subregionId": "NA",
+            "type": "Fixed On Shore Wind"
+        }
+    ],
     "regions": [
         {
             "id": "AM",
