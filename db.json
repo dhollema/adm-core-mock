@@ -317,46 +317,6 @@
             "name": "California",
             "regionId": "AM",
             "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-CO",
-            "name": "Colorado",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-CT",
-            "name": "Connecticut",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-DE",
-            "name": "Delaware",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "district",
-            "countryId": "USA",
-            "id": "US-DC",
-            "name": "District of Columbia",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-FL",
-            "name": "Florida",
-            "regionId": "AM",
-            "subregionId": "NA"
         }
     ],
     "subregions": [
