@@ -219,54 +219,6 @@
             "name": "Florida",
             "regionId": "AM",
             "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-GA",
-            "name": "Georgia",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "outlying area",
-            "countryId": "USA",
-            "id": "US-GU",
-            "name": "Guam (see also separate country code entry under GU)",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-HI",
-            "name": "Hawaii",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-ID",
-            "name": "Idaho",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-IL",
-            "name": "Illinois",
-            "regionId": "AM",
-            "subregionId": "NA"
-        },
-        {
-            "category": "state",
-            "countryId": "USA",
-            "id": "US-IN",
-            "name": "Indiana",
-            "regionId": "AM",
-            "subregionId": "NA"
         }
     ],
     "subregions": [
