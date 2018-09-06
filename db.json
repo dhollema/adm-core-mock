@@ -35,6 +35,350 @@
             "name": "Americas"
         }
     ],
+    "subdivisions": [
+        {
+            "3166-2-code": "US-AL",
+            "category": "state",
+            "countryId": "840",
+            "name": "Alabama"
+        },
+        {
+            "3166-2-code": "US-AK",
+            "category": "state",
+            "countryId": "840",
+            "name": "Alaska"
+        },
+        {
+            "3166-2-code": "US-AS",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "American Samoa (see also separate country code entry under AS)"
+        },
+        {
+            "3166-2-code": "US-AZ",
+            "category": "state",
+            "countryId": "840",
+            "name": "Arizona"
+        },
+        {
+            "3166-2-code": "US-AR",
+            "category": "state",
+            "countryId": "840",
+            "name": "Arkansas"
+        },
+        {
+            "3166-2-code": "US-CA",
+            "category": "state",
+            "countryId": "840",
+            "name": "California"
+        },
+        {
+            "3166-2-code": "US-CO",
+            "category": "state",
+            "countryId": "840",
+            "name": "Colorado"
+        },
+        {
+            "3166-2-code": "US-CT",
+            "category": "state",
+            "countryId": "840",
+            "name": "Connecticut"
+        },
+        {
+            "3166-2-code": "US-DE",
+            "category": "state",
+            "countryId": "840",
+            "name": "Delaware"
+        },
+        {
+            "3166-2-code": "US-DC",
+            "category": "district",
+            "countryId": "840",
+            "name": "District of Columbia"
+        },
+        {
+            "3166-2-code": "US-FL",
+            "category": "state",
+            "countryId": "840",
+            "name": "Florida"
+        },
+        {
+            "3166-2-code": "US-GA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Georgia"
+        },
+        {
+            "3166-2-code": "US-GU",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "Guam (see also separate country code entry under GU)"
+        },
+        {
+            "3166-2-code": "US-HI",
+            "category": "state",
+            "countryId": "840",
+            "name": "Hawaii"
+        },
+        {
+            "3166-2-code": "US-ID",
+            "category": "state",
+            "countryId": "840",
+            "name": "Idaho"
+        },
+        {
+            "3166-2-code": "US-IL",
+            "category": "state",
+            "countryId": "840",
+            "name": "Illinois"
+        },
+        {
+            "3166-2-code": "US-IN",
+            "category": "state",
+            "countryId": "840",
+            "name": "Indiana"
+        },
+        {
+            "3166-2-code": "US-IA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Iowa"
+        },
+        {
+            "3166-2-code": "US-KS",
+            "category": "state",
+            "countryId": "840",
+            "name": "Kansas"
+        },
+        {
+            "3166-2-code": "US-KY",
+            "category": "state",
+            "countryId": "840",
+            "name": "Kentucky"
+        },
+        {
+            "3166-2-code": "US-LA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Louisiana"
+        },
+        {
+            "3166-2-code": "US-ME",
+            "category": "state",
+            "countryId": "840",
+            "name": "Maine"
+        },
+        {
+            "3166-2-code": "US-MD",
+            "category": "state",
+            "countryId": "840",
+            "name": "Maryland"
+        },
+        {
+            "3166-2-code": "US-MA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Massachusetts"
+        },
+        {
+            "3166-2-code": "US-MI",
+            "category": "state",
+            "countryId": "840",
+            "name": "Michigan"
+        },
+        {
+            "3166-2-code": "US-MN",
+            "category": "state",
+            "countryId": "840",
+            "name": "Minnesota"
+        },
+        {
+            "3166-2-code": "US-MS",
+            "category": "state",
+            "countryId": "840",
+            "name": "Mississippi"
+        },
+        {
+            "3166-2-code": "US-MO",
+            "category": "state",
+            "countryId": "840",
+            "name": "Missouri"
+        },
+        {
+            "3166-2-code": "US-MT",
+            "category": "state",
+            "countryId": "840",
+            "name": "Montana"
+        },
+        {
+            "3166-2-code": "US-NE",
+            "category": "state",
+            "countryId": "840",
+            "name": "Nebraska"
+        },
+        {
+            "3166-2-code": "US-NV",
+            "category": "state",
+            "countryId": "840",
+            "name": "Nevada"
+        },
+        {
+            "3166-2-code": "US-NH",
+            "category": "state",
+            "countryId": "840",
+            "name": "New Hampshire"
+        },
+        {
+            "3166-2-code": "US-NJ",
+            "category": "state",
+            "countryId": "840",
+            "name": "New Jersey"
+        },
+        {
+            "3166-2-code": "US-NM",
+            "category": "state",
+            "countryId": "840",
+            "name": "New Mexico"
+        },
+        {
+            "3166-2-code": "US-NY",
+            "category": "state",
+            "countryId": "840",
+            "name": "New York"
+        },
+        {
+            "3166-2-code": "US-NC",
+            "category": "state",
+            "countryId": "840",
+            "name": "North Carolina"
+        },
+        {
+            "3166-2-code": "US-ND",
+            "category": "state",
+            "countryId": "840",
+            "name": "North Dakota"
+        },
+        {
+            "3166-2-code": "US-MP",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "Northern Mariana Islands (see also separate country code entry under MP)"
+        },
+        {
+            "3166-2-code": "US-OH",
+            "category": "state",
+            "countryId": "840",
+            "name": "Ohio"
+        },
+        {
+            "3166-2-code": "US-OK",
+            "category": "state",
+            "countryId": "840",
+            "name": "Oklahoma"
+        },
+        {
+            "3166-2-code": "US-OR",
+            "category": "state",
+            "countryId": "840",
+            "name": "Oregon"
+        },
+        {
+            "3166-2-code": "US-PA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Pennsylvania"
+        },
+        {
+            "3166-2-code": "US-PR",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "Puerto Rico (see also separate country code entry under PR)"
+        },
+        {
+            "3166-2-code": "US-RI",
+            "category": "state",
+            "countryId": "840",
+            "name": "Rhode Island"
+        },
+        {
+            "3166-2-code": "US-SC",
+            "category": "state",
+            "countryId": "840",
+            "name": "South Carolina"
+        },
+        {
+            "3166-2-code": "US-SD",
+            "category": "state",
+            "countryId": "840",
+            "name": "South Dakota"
+        },
+        {
+            "3166-2-code": "US-TN",
+            "category": "state",
+            "countryId": "840",
+            "name": "Tennessee"
+        },
+        {
+            "3166-2-code": "US-TX",
+            "category": "state",
+            "countryId": "840",
+            "name": "Texas"
+        },
+        {
+            "3166-2-code": "US-UM",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "United States Minor Outlying Islands (see also separate country code entry under UM)"
+        },
+        {
+            "3166-2-code": "US-UT",
+            "category": "state",
+            "countryId": "840",
+            "name": "Utah"
+        },
+        {
+            "3166-2-code": "US-VT",
+            "category": "state",
+            "countryId": "840",
+            "name": "Vermont"
+        },
+        {
+            "3166-2-code": "US-VI",
+            "category": "outlying area",
+            "countryId": "840",
+            "name": "Virgin Islands, U.S. (see also separate country code entry under VI)"
+        },
+        {
+            "3166-2-code": "US-VA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Virginia"
+        },
+        {
+            "3166-2-code": "US-WA",
+            "category": "state",
+            "countryId": "840",
+            "name": "Washington"
+        },
+        {
+            "3166-2-code": "US-WV",
+            "category": "state",
+            "countryId": "840",
+            "name": "West Virginia"
+        },
+        {
+            "3166-2-code": "US-WI",
+            "category": "state",
+            "countryId": "840",
+            "name": "Wisconsin"
+        },
+        {
+            "3166-2-code": "US-WY",
+            "category": "state",
+            "countryId": "840",
+            "name": "Wyoming"
+        }
+    ],
     "subregions": [
         {
             "id": "013",
@@ -48,6 +392,5 @@
             "region": "Americas",
             "regionId": "019"
         }
-    ],
-    "subdivisions": []
+    ]
 }
