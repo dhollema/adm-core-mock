@@ -25,14 +25,14 @@
     "plants": [
         {
             "countryId": "USA",
-            "geolocation": "9zy1u8rvmhr",
-            "id": "d701748f0851",
-            "name": "Milo",
+            "geolocation": "dr5rg2zekvx",
+            "id": "J9vcVzm9oxXu",
+            "name": "Stevens Institute",
+            "projectType": "Grid Scale Solar",
             "regionId": "AM",
-            "status": "Prospection",
-            "subdivisionId": "US-CA",
-            "subregionId": "NA",
-            "type": "Fixed On Shore Wind"
+            "status": "Production",
+            "subdivisionId": "US-NJ",
+            "subregionId": "NA"
         }
     ],
     "regions": [
@@ -162,10 +162,10 @@
             "subregionId": "NA"
         },
         {
-            "category": "outlying area",
+            "category": "state",
             "countryId": "USA",
-            "id": "US-AS",
-            "name": "American Samoa (see also separate country code entry under AS)",
+            "id": "US-NJ",
+            "name": "New Jersey",
             "regionId": "AM",
             "subregionId": "NA"
         },
