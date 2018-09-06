@@ -29,7 +29,7 @@
         {
             "id": "019",
             "link": {
-                "href": "https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/subregions",
+                "href": "<a href=\"https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/subregions\">subregions<\/a>",
                 "rel": "collection/subregions"
             },
             "name": "Americas"
