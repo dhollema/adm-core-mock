@@ -2,9 +2,26 @@
     "countries": [
         {
             "name": "Canada",
-            "code": "124",
+            "id": "124",
             "alpha-2-code": "CA",
             "alpha-3-code": "CAN",
+            "sub-region": "Northern America",
+            "sub-region-code": "021"
+        },
+        {
+            "name": "Mexico",
+            "alpha-2-code": "MX",
+            "alpha-3-code": "MEX",
+            "id": "484",
+            "sub-region": "Central America",
+            "sub-region-code": "013"
+        },
+        {
+            "name": "United States of America",
+            "alpha-2-code": "US",
+            "alpha-3-code": "USA",
+            "id": "840",
+            "iso_3166-2-code": "ISO 3166-2-code:US",
             "sub-region": "Northern America",
             "sub-region-code": "021"
         }
