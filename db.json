@@ -33,6 +33,28 @@
             "status": "Production",
             "subdivisionId": "US-NJ",
             "subregionId": "NA"
+        },
+        {
+            "countryId": "USA",
+            "geolocation": "dr639cuegwd",
+            "id": "9Bz7tpMfQIar",
+            "name": "Pocono Raceway",
+            "projectType": "Grid Scale Solar",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-PA",
+            "subregionId": "NA"
+        },
+        {
+            "countryId": "USA",
+            "geolocation": "9zy0gr8jg4v",
+            "id": "2w340bss4zV6",
+            "name": "Wapsipinicon",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-MO",
+            "subregionId": "NA"
         }
     ],
     "regions": [
@@ -148,8 +170,8 @@
         {
             "category": "state",
             "countryId": "USA",
-            "id": "US-AL",
-            "name": "Alabama",
+            "id": "US-MO",
+            "name": "Missouri",
             "regionId": "AM",
             "subregionId": "NA"
         },
@@ -172,8 +194,8 @@
         {
             "category": "state",
             "countryId": "USA",
-            "id": "US-AZ",
-            "name": "Arizona",
+            "id": "US-PA",
+            "name": "Pennsylvania",
             "regionId": "AM",
             "subregionId": "NA"
         },
