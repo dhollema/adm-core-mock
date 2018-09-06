@@ -3,8 +3,8 @@
         {
             "name": "Canada",
             "code": "124",
-            "alpha-two-code": "CA",
-            "alpha-three-code": "CAN",
+            "alpha-2-code": "CA",
+            "alpha-3-code": "CAN",
             "sub-region": "Northern America",
             "sub-region-code": "021"
         }
