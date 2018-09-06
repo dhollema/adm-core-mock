@@ -1,27 +1,46 @@
 {
+    "regions": [
+        {
+            "id": "019",
+            "name": "Americas"
+        }
+    ],
+    "sub-regions": [
+        {
+            "id": "013",
+            "name": "Central America",
+            "region": "Northern America",
+            "region-code": "021"
+        },
+        {
+            "id": "021",
+            "name": "Northern America",
+            "region": "Northern America",
+            "region-code": "021"
+        }
+    ],
     "countries": [
         {
-            "name": "Canada",
             "id": "124",
+            "name": "Canada",
             "alpha-2-code": "CA",
             "alpha-3-code": "CAN",
             "sub-region": "Northern America",
             "sub-region-code": "021"
         },
         {
+            "id": "484",
             "name": "Mexico",
             "alpha-2-code": "MX",
             "alpha-3-code": "MEX",
-            "id": "484",
             "sub-region": "Central America",
             "sub-region-code": "013"
         },
         {
+            "id": "840",
             "name": "United States of America",
             "alpha-2-code": "US",
             "alpha-3-code": "USA",
-            "id": "840",
-            "iso_3166-2-code": "ISO 3166-2-code:US",
             "sub-region": "Northern America",
             "sub-region-code": "021"
         }
