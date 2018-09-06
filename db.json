@@ -210,5 +210,19 @@
             "countryId": "840",
             "name": "Montana"
         }
+    ],
+    "subregions": [
+        {
+            "id": "013",
+            "name": "Central America",
+            "region": "Americas",
+            "regionId": "019"
+        },
+        {
+            "id": "021",
+            "name": "Northern America",
+            "region": "Americas",
+            "regionId": "019"
+        }
     ]
 }
