@@ -1,10 +1,10 @@
 {
     "countries": [
         {
-            "alpha-2-code": "CA",
-            "alpha-3-code": "CAN",
-            "code": "124",
             "name": "Canada",
+            "code": "124",
+            "alpha-two-code": "CA",
+            "alpha-three-code": "CAN",
             "sub-region": "Northern America",
             "sub-region-code": "021"
         }
