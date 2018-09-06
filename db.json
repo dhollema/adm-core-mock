@@ -1,7 +1,37 @@
 {
+    "countries": [
+        {
+            "alpha-2-code": "CA",
+            "alpha-3-code": "CAN",
+            "id": "124",
+            "name": "Canada",
+            "sub-region": "Northern America",
+            "sub-region-code": "021"
+        },
+        {
+            "alpha-2-code": "MX",
+            "alpha-3-code": "MEX",
+            "id": "484",
+            "name": "Mexico",
+            "sub-region": "Central America",
+            "sub-region-code": "013"
+        },
+        {
+            "alpha-2-code": "US",
+            "alpha-3-code": "USA",
+            "id": "840",
+            "name": "United States of America",
+            "sub-region": "Northern America",
+            "sub-region-code": "021"
+        }
+    ],
     "regions": [
         {
             "id": "019",
+            "link": {
+                "href": "https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/sub-regions",
+                "rel": "collection/sub-regions"
+            },
             "name": "Americas"
         }
     ],
@@ -9,40 +39,15 @@
         {
             "id": "013",
             "name": "Central America",
-            "region": "Northern America",
-            "region-code": "021"
+            "region": "Americas",
+            "region-code": "019"
         },
         {
             "id": "021",
             "name": "Northern America",
-            "region": "Northern America",
-            "region-code": "021"
+            "region": "Americas",
+            "region-code": "019"
         }
     ],
-    "countries": [
-        {
-            "id": "124",
-            "name": "Canada",
-            "alpha-2-code": "CA",
-            "alpha-3-code": "CAN",
-            "sub-region": "Northern America",
-            "sub-region-code": "021"
-        },
-        {
-            "id": "484",
-            "name": "Mexico",
-            "alpha-2-code": "MX",
-            "alpha-3-code": "MEX",
-            "sub-region": "Central America",
-            "sub-region-code": "013"
-        },
-        {
-            "id": "840",
-            "name": "United States of America",
-            "alpha-2-code": "US",
-            "alpha-3-code": "USA",
-            "sub-region": "Northern America",
-            "sub-region-code": "021"
-        }
-    ]
+    "subdivisions": []
 }
