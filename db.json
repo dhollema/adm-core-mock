@@ -42,6 +42,97 @@
     ],
     "subdivisions": [
         {
+            "category": "province",
+            "id": "CA-AB",
+            "name": "Alberta",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-BC",
+            "name": "British Columbia",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-MB",
+            "name": "Manitoba",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-NB",
+            "name": "New Brunswick",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-NL",
+            "name": "Newfoundland and Labrador",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-NS",
+            "name": "Nova Scotia",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "territory",
+            "id": "CA-NT",
+            "name": "Northwest Territories",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "territory",
+            "id": "CA-NU",
+            "name": "Nunavut",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-ON",
+            "name": "Ontario",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-PE",
+            "name": "Prince Edward Island",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-QC",
+            "name": "Quebec",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "province",
+            "id": "CA-SK",
+            "name": "Saskatchewan",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "territory",
+            "id": "CA-YT",
+            "name": "Yukon",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
             "category": "state",
             "countryId": "USA",
             "id": "US-AL",
