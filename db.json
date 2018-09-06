@@ -5,48 +5,48 @@
             "alpha-3-code": "CAN",
             "id": "124",
             "name": "Canada",
-            "sub-region": "Northern America",
-            "sub-region-code": "021"
+            "subregion": "Northern America",
+            "subregionId": "021"
         },
         {
             "alpha-2-code": "MX",
             "alpha-3-code": "MEX",
             "id": "484",
             "name": "Mexico",
-            "sub-region": "Central America",
-            "sub-region-code": "013"
+            "subregion": "Central America",
+            "subregionId": "013"
         },
         {
             "alpha-2-code": "US",
             "alpha-3-code": "USA",
             "id": "840",
             "name": "United States of America",
-            "sub-region": "Northern America",
-            "sub-region-code": "021"
+            "subregion": "Northern America",
+            "subregionId": "021"
         }
     ],
     "regions": [
         {
             "id": "019",
             "link": {
-                "href": "https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/sub-regions",
-                "rel": "collection/sub-regions"
+                "href": "https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/subregions",
+                "rel": "collection/subregions"
             },
             "name": "Americas"
         }
     ],
-    "sub-regions": [
+    "subregions": [
         {
             "id": "013",
             "name": "Central America",
             "region": "Americas",
-            "region-code": "019"
+            "regionId": "019"
         },
         {
             "id": "021",
             "name": "Northern America",
             "region": "Americas",
-            "region-code": "019"
+            "regionId": "019"
         }
     ],
     "subdivisions": []
