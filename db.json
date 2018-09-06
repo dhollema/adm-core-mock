@@ -24,6 +24,50 @@
     ],
     "plants": [
         {
+            "countryId": "USA",
+            "geolocation": "9zgdpnq86fv",
+            "id": "sOx2R7tM7epn",
+            "name": "Viking",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-MN",
+            "subregionId": "NA"
+        },
+        {
+            "countryId": "USA",
+            "geolocation": "9zgbewyjtm2",
+            "id": "wjmi6H1mtAF0",
+            "name": "Nobles",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-MN",
+            "subregionId": "NA"
+        },
+        {
+            "countryId": "USA",
+            "geolocation": "9zgscy6ckpx",
+            "id": "nuU5N7FO6prJ",
+            "name": "Red Pine",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-MN",
+            "subregionId": "NA"
+        },
+        {
+            "countryId": "USA",
+            "geolocation": "dp90yg7k1eh",
+            "id": "kLonKo1npomL",
+            "name": "McHenry",
+            "projectType": "Grid Scale Storage",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "US-IL",
+            "subregionId": "NA"
+        },
+        {
             "countryId": "MEX",
             "geolocation": "9fummzd95sk",
             "id": "167pyq6rjoAK",
@@ -213,8 +257,24 @@
         {
             "category": "state",
             "countryId": "USA",
+            "id": "US-IL",
+            "name": "Illinois",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "state",
+            "countryId": "USA",
             "id": "US-MO",
             "name": "Missouri",
+            "regionId": "AM",
+            "subregionId": "NA"
+        },
+        {
+            "category": "state",
+            "countryId": "USA",
+            "id": "US-MN",
+            "name": "Minnesota",
             "regionId": "AM",
             "subregionId": "NA"
         },
