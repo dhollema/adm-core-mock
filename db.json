@@ -2,227 +2,290 @@
     "countries": [
         {
             "alpha-2-code": "CA",
-            "alpha-3-code": "CAN",
-            "id": "124",
+            "id": "CAN",
             "name": "Canada",
-            "subregion": "Northern America",
-            "subregionId": "021"
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
             "alpha-2-code": "MX",
-            "alpha-3-code": "MEX",
-            "id": "484",
+            "id": "MEX",
             "name": "Mexico",
-            "subregion": "Central America",
-            "subregionId": "013"
+            "regionId": "AM",
+            "subregionId": "CA"
         },
         {
             "alpha-2-code": "US",
-            "alpha-3-code": "USA",
-            "id": "840",
+            "id": "USA",
             "name": "United States of America",
-            "subregion": "Northern America",
-            "subregionId": "021"
+            "regionId": "AM",
+            "subregionId": "NA"
         }
     ],
     "regions": [
         {
-            "id": "019",
-            "link": {
-                "href": "https://my-json-server.typicode.com/dhollema/adm-core-mock/regions/019/subregions",
-                "rel": "collection/subregions"
-            },
+            "id": "AM",
             "name": "Americas"
+        },
+        {
+            "id": "AF",
+            "name": "Africa"
+        },
+        {
+            "id": "AS",
+            "name": "Asia"
+        },
+        {
+            "id": "EU",
+            "name": "Europe"
         }
     ],
     "subdivisions": [
         {
-            "3166-2-code": "US-AL",
             "category": "state",
-            "countryId": "840",
-            "name": "Alabama"
+            "countryId": "USA",
+            "id": "US-AL",
+            "name": "Alabama",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-AK",
             "category": "state",
-            "countryId": "840",
-            "name": "Alaska"
+            "countryId": "USA",
+            "id": "US-AK",
+            "name": "Alaska",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-AS",
             "category": "outlying area",
-            "countryId": "840",
-            "name": "American Samoa (see also separate country code entry under AS)"
+            "countryId": "USA",
+            "id": "US-AS",
+            "name": "American Samoa (see also separate country code entry under AS)",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-AZ",
             "category": "state",
-            "countryId": "840",
-            "name": "Arizona"
+            "countryId": "USA",
+            "id": "US-AZ",
+            "name": "Arizona",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-AR",
             "category": "state",
-            "countryId": "840",
-            "name": "Arkansas"
+            "countryId": "USA",
+            "id": "US-AR",
+            "name": "Arkansas",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-CA",
             "category": "state",
-            "countryId": "840",
-            "name": "California"
+            "countryId": "USA",
+            "id": "US-CA",
+            "name": "California",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-CO",
             "category": "state",
-            "countryId": "840",
-            "name": "Colorado"
+            "countryId": "USA",
+            "id": "US-CO",
+            "name": "Colorado",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-CT",
             "category": "state",
-            "countryId": "840",
-            "name": "Connecticut"
+            "countryId": "USA",
+            "id": "US-CT",
+            "name": "Connecticut",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-DE",
             "category": "state",
-            "countryId": "840",
-            "name": "Delaware"
+            "countryId": "USA",
+            "id": "US-DE",
+            "name": "Delaware",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-DC",
             "category": "district",
-            "countryId": "840",
-            "name": "District of Columbia"
+            "countryId": "USA",
+            "id": "US-DC",
+            "name": "District of Columbia",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-FL",
             "category": "state",
-            "countryId": "840",
-            "name": "Florida"
+            "countryId": "USA",
+            "id": "US-FL",
+            "name": "Florida",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-GA",
             "category": "state",
-            "countryId": "840",
-            "name": "Georgia"
+            "countryId": "USA",
+            "id": "US-GA",
+            "name": "Georgia",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-GU",
             "category": "outlying area",
-            "countryId": "840",
-            "name": "Guam (see also separate country code entry under GU)"
+            "countryId": "USA",
+            "id": "US-GU",
+            "name": "Guam (see also separate country code entry under GU)",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-HI",
             "category": "state",
-            "countryId": "840",
-            "name": "Hawaii"
+            "countryId": "USA",
+            "id": "US-HI",
+            "name": "Hawaii",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-ID",
             "category": "state",
-            "countryId": "840",
-            "name": "Idaho"
+            "countryId": "USA",
+            "id": "US-ID",
+            "name": "Idaho",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-IL",
             "category": "state",
-            "countryId": "840",
-            "name": "Illinois"
+            "countryId": "USA",
+            "id": "US-IL",
+            "name": "Illinois",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-IN",
             "category": "state",
-            "countryId": "840",
-            "name": "Indiana"
+            "countryId": "USA",
+            "id": "US-IN",
+            "name": "Indiana",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-IA",
             "category": "state",
-            "countryId": "840",
-            "name": "Iowa"
+            "countryId": "USA",
+            "id": "US-IA",
+            "name": "Iowa",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-KS",
             "category": "state",
-            "countryId": "840",
-            "name": "Kansas"
+            "countryId": "USA",
+            "id": "US-KS",
+            "name": "Kansas",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-KY",
             "category": "state",
-            "countryId": "840",
-            "name": "Kentucky"
+            "countryId": "USA",
+            "id": "US-KY",
+            "name": "Kentucky",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-LA",
             "category": "state",
-            "countryId": "840",
-            "name": "Louisiana"
+            "countryId": "USA",
+            "id": "US-LA",
+            "name": "Louisiana",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-ME",
             "category": "state",
-            "countryId": "840",
-            "name": "Maine"
+            "countryId": "USA",
+            "id": "US-ME",
+            "name": "Maine",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MD",
             "category": "state",
-            "countryId": "840",
-            "name": "Maryland"
+            "countryId": "USA",
+            "id": "US-MD",
+            "name": "Maryland",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MA",
             "category": "state",
-            "countryId": "840",
-            "name": "Massachusetts"
+            "countryId": "USA",
+            "id": "US-MA",
+            "name": "Massachusetts",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MI",
             "category": "state",
-            "countryId": "840",
-            "name": "Michigan"
+            "countryId": "USA",
+            "id": "US-MI",
+            "name": "Michigan",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MN",
             "category": "state",
-            "countryId": "840",
-            "name": "Minnesota"
+            "countryId": "USA",
+            "id": "US-MN",
+            "name": "Minnesota",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MS",
             "category": "state",
-            "countryId": "840",
-            "name": "Mississippi"
+            "countryId": "USA",
+            "id": "US-MS",
+            "name": "Mississippi",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MO",
             "category": "state",
-            "countryId": "840",
-            "name": "Missouri"
+            "countryId": "USA",
+            "id": "US-MO",
+            "name": "Missouri",
+            "regionId": "AM",
+            "subregionId": "NA"
         },
         {
-            "3166-2-code": "US-MT",
             "category": "state",
-            "countryId": "840",
-            "name": "Montana"
+            "countryId": "USA",
+            "id": "US-MT",
+            "name": "Montana",
+            "regionId": "AM",
+            "subregionId": "NA"
         }
     ],
     "subregions": [
         {
-            "id": "013",
+            "id": "CA",
             "name": "Central America",
             "region": "Americas",
-            "regionId": "019"
+            "regionId": "AM"
         },
         {
-            "id": "021",
+            "id": "NA",
             "name": "Northern America",
             "region": "Americas",
-            "regionId": "019"
+            "regionId": "AM"
         }
     ]
 }
