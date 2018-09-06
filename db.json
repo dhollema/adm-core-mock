@@ -24,6 +24,28 @@
     ],
     "plants": [
         {
+            "countryId": "MEX",
+            "geolocation": "9fummzd95sk",
+            "id": "167pyq6rjoAK",
+            "name": "Bii Stinu Wind",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "MX-OAX",
+            "subregionId": "CA"
+        },
+        {
+            "countryId": "CAN",
+            "geolocation": "c2zu1h0urfz",
+            "id": "3Nzn7lofJs29",
+            "name": "Blackspring Ridge",
+            "projectType": "Fixed On Shore Wind",
+            "regionId": "AM",
+            "status": "Production",
+            "subdivisionId": "CA-AB",
+            "subregionId": "NA"
+        },
+        {
             "countryId": "USA",
             "geolocation": "dr5rg2zekvx",
             "id": "J9vcVzm9oxXu",
@@ -77,7 +99,16 @@
     ],
     "subdivisions": [
         {
+            "category": "state",
+            "countryId": "MEX",
+            "id": "MX-OAX",
+            "name": "Oaxaca",
+            "regionId": "AM",
+            "subregionId": "CA"
+        },
+        {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-AB",
             "name": "Alberta",
             "regionId": "AM",
@@ -85,6 +116,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-BC",
             "name": "British Columbia",
             "regionId": "AM",
@@ -92,6 +124,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-MB",
             "name": "Manitoba",
             "regionId": "AM",
@@ -99,6 +132,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-NB",
             "name": "New Brunswick",
             "regionId": "AM",
@@ -106,6 +140,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-NL",
             "name": "Newfoundland and Labrador",
             "regionId": "AM",
@@ -113,6 +148,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-NS",
             "name": "Nova Scotia",
             "regionId": "AM",
@@ -120,6 +156,7 @@
         },
         {
             "category": "territory",
+            "countryId": "CAN",
             "id": "CA-NT",
             "name": "Northwest Territories",
             "regionId": "AM",
@@ -127,6 +164,7 @@
         },
         {
             "category": "territory",
+            "countryId": "CAN",
             "id": "CA-NU",
             "name": "Nunavut",
             "regionId": "AM",
@@ -134,6 +172,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-ON",
             "name": "Ontario",
             "regionId": "AM",
@@ -141,6 +180,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-PE",
             "name": "Prince Edward Island",
             "regionId": "AM",
@@ -148,6 +188,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-QC",
             "name": "Quebec",
             "regionId": "AM",
@@ -155,6 +196,7 @@
         },
         {
             "category": "province",
+            "countryId": "CAN",
             "id": "CA-SK",
             "name": "Saskatchewan",
             "regionId": "AM",
@@ -162,6 +204,7 @@
         },
         {
             "category": "territory",
+            "countryId": "CAN",
             "id": "CA-YT",
             "name": "Yukon",
             "regionId": "AM",
